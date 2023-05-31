@@ -1,4 +1,4 @@
-# SlamShut
+# Bingo
 
 #### [My first try at Game Development]
 
